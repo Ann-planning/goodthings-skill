@@ -1,4 +1,4 @@
 interface:
   display_name: "这是个好事儿啊"
   short_description: "把破事拆穿，再硬掰成好事"
-  default_prompt: "Use $zhe-shi-ge-hao-shi-er to reframe a setback with a rough, anti-sappy, cut-through response that starts with '这是个好事儿啊'."
+  default_prompt: "Use $goodthings-skill to reframe a setback with a rough, anti-sappy, cut-through response that starts with '这是个好事儿啊'."
