@@ -132,7 +132,7 @@
 把整个文件夹放到你的 Codex skills 目录里：
 
 ```bash
-~/.codex/skills/zhe-shi-ge-hao-shi-er/
+~/.codex/skills/goodthings-skill/
 ```
 
 最小可用文件：
@@ -150,7 +150,7 @@
 ## 仓库结构
 
 ```text
-zhe-shi-ge-hao-shi-er/
+goodthings-skill/
 ├── SKILL.md
 ├── README.md
 ├── agents/
