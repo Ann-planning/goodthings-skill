@@ -1,0 +1,8 @@
+.DS_Store
+.whisper-cache/
+ffmpeg
+ffmpeg_local
+*.mp4
+*.wav
+*.transcript.txt
+*.cleaned.txt
