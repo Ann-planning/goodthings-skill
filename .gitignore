@@ -6,3 +6,4 @@ ffmpeg_local
 *.wav
 *.transcript.txt
 *.cleaned.txt
+!references/transcripts/*.cleaned.txt
